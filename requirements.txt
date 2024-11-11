@@ -1,0 +1,10 @@
+langchain
+langchain_community
+langchain_chroma
+langchain_ollama
+beautifulsoup4
+aiohttp
+pyngrok
+streamlit
+protobuf==3.20.*
+validators
